@@ -47,7 +47,9 @@ public class IndexController {
 				new Usuario("Alison", "Bellido", "Bellido@gmail.com"),
 				new Usuario("Erick", "Gonzales", "Gonzales@gmail.com"),
 				new Usuario("Leon", "Toralva", "Toralva@gmail.com"),
-				new Usuario("Juan", "Vega", "Vega@gmail.com"));
+				new Usuario("Juan", "Vega", "Vega@gmail.com"),
+				new Usuario("Nazli", "Tello", "Tello@gmail.com"));
+				
 
 		return usuarios;
 
